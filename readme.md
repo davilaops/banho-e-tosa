@@ -44,7 +44,7 @@ Este projeto está sob a licença MIT.
 Sinta-se livre para usar e melhorar!
 
 ---
-Preview
+## Preview
 <img width="1873" height="853" alt="Image" src="https://github.com/user-attachments/assets/d0e25d6d-5aa0-468a-b010-2cde5f378b4e" />
 
 
